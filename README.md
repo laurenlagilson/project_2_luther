@@ -1,3 +1,3 @@
-# Project 2: Luther . 
-For Project 2 at Metis Bootcamp, we were challenged with predicting an outcome using Linear Regression.  
-This folder contains the full code .ipynb for this project.
+## Project 2 - Predicting the score of a rugby match using Linear Regression 
+
+The location of the repo has been moved to my new Github and can be found [here](https://github.com/laurenlhoward14/linear-regression-rugby)
